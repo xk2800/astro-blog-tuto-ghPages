@@ -4,6 +4,6 @@ import preact from "@astrojs/preact";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'astro-blog-tuto-ghPages.xk2800.gtihub.io',
+  site: 'https://astro-blog-tuto-ghPages.xk2800.github.io',
   integrations: [preact()]
 });
